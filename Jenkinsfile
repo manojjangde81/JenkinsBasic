@@ -3,5 +3,3 @@ class MyJavaJob{
      System.out.println("Jenkins Through GitHub Interface Test !!!");  
     }  
 }  
-
-echo "Hello How Are You Manoj !!!"
